@@ -8,6 +8,7 @@ function App() {
   
       <Header></Header>
       <div className='flex mt-10'>
+      <Courses ></Courses>
        
 
       </div>
