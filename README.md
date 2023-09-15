@@ -1,8 +1,12 @@
-# React + Vite
+# Course Registration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Main Functionalities of the Project:
 
-Currently, two official plugins are available:
+1. Project shows available courses and course related info like name, cost, credit hour, and a short description of the course.
+2. Show functionality of which courses are selected for registration.
+3. Registration section displays information on how much credit is left, the total cost of the courses, and the remaining credit hours left.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How I Handle State?
+
+To retrieve and store data, I utilized the `courses` state and stored the data there as an array. I employed the same strategy for the selection of courses for registration. All selected courses are stored in an array and rendered. I used state to maintain credit, price, and remaining credit calculations and passed those states as props.
+
