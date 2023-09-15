@@ -1,5 +1,6 @@
 [
     {
+      "id":1,
       "image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1060&t=st=1694719524~exp=1694720124~hmac=1f5cfdf27c4681b44a98f9d7a53c47a3cd43f7673cdaabbd10883e0ea9a865d6",
       "title": "Web Development Basics",
       "description": "Dive into the world of web development with this introductory course. Learn about HTML, CSS, and basic JavaScript.",
@@ -7,6 +8,7 @@
       "credit": 3
     },
     {
+      "id":2,
       "image": "https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Advanced Python Programming",
       "description": "Take your Python skills to the next level. Explore advanced concepts, algorithms, and real-world applications.",
@@ -14,6 +16,7 @@
       "credit": 4
     },
     {
+      "id":3,
       "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Data Science with R",
       "description": "Master data analysis and machine learning with R. Get hands-on experience with real-world datasets.",
@@ -21,6 +24,7 @@
       "credit": 4
     },
     {
+      "id":4,
       "image": "https://media.istockphoto.com/id/1254895286/photo/cloud-computing-technology-and-online-data-storage-for-business-network-concept.jpg?s=1024x1024&w=is&k=20&c=BXS7sgZmC9NmRrx8ghIo5kHurCQf0q_k7id_R_kJ3sw=",
       "title": "Cloud Computing Fundamentals",
       "description": "Understand the principles of cloud computing and gain proficiency in AWS, Azure, and Google Cloud.",
@@ -28,6 +32,7 @@
       "credit": 5
     },
     {
+      "id":5,
       "image": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=1060&t=st=1694720098~exp=1694720698~hmac=572e7ada6aa98cbaadde64cd342e960561d6bcc69943ebf0f7c4487fef95040c",
       "title": "Mobile App Development with React Native",
       "description": "Design and develop mobile apps using React Native. Create cross-platform applications for iOS and Android.",
@@ -35,6 +40,7 @@
       "credit": 4
     },
     {
+      "id":6,
       "image": "https://cdn.pixabay.com/photo/2016/11/07/12/08/cyber-security-1805632_1280.png",
       "title": "Cybersecurity Foundations",
       "description": "Learn about the fundamental principles of cybersecurity. Protect systems and networks from cyber threats.",
@@ -42,6 +48,7 @@
       "credit": 5
     },
     {
+      "id":7,
       "image": "https://th.bing.com/th/id/OIP.h-dAuQ8Ku-Omnx4YXnPyYwHaE8?pid=ImgDet&rs=1",
       "title": "Database Management with SQL",
       "description": "Understand relational databases and write efficient SQL queries. Dive into database optimization techniques.",
@@ -49,6 +56,7 @@
       "credit": 3
     },
     {
+      "id":8,
       "image": "https://th.bing.com/th/id/OIP.VIaM5mVR2xp3dQ6aq3wIZgAAAA?pid=ImgDet&rs=1",
       "title": "Blockchain and Cryptocurrency",
       "description": "Get to know the underlying technology of cryptocurrencies. Understand the concepts of blockchain and its applications.",
@@ -56,6 +64,7 @@
       "credit": 5
     },
     {
+      "id":9,
       "image": "https://th.bing.com/th/id/OIP.Npni0jBGQW3b8e6X2sKOnQHaE8?pid=ImgDet&rs=1",
       "title": "Artificial Intelligence Foundations",
       "description": "Start your journey into the world of AI. Learn about neural networks, deep learning, and machine vision.",
