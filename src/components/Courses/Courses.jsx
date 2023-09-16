@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Course from '../Course/Course';
 
-const Courses = () => {
+const Courses = ({ onCourseSelect }) => {
     const [courses, setCourses] = useState([]);
 
     useEffect (() => {
@@ -13,12 +13,12 @@ const Courses = () => {
 
       return (
         <div className='w-3/4'>
-          <div className="grid grid-cols-3 gap-6">
+          <div className="grid grid-cols-3 gap-6 ml-10">
             {courses.map(course => (
               <Course 
                 key={course.id} 
                 course={course} 
-               
+                onSelect={() => onCourseSelect(course)}
               />
             ))}
           </div>
